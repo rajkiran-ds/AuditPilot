@@ -1,0 +1,51 @@
+# UI
+streamlit>=1.36
+
+# Web crawling
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.2
+
+# Data
+pandas>=2.2
+numpy>=1.26
+
+# Visualizations
+plotly>=5.22,<6
+kaleido==0.2.1
+
+# Images
+Pillow>=10.3
+
+# PowerPoint & PDF
+python-pptx>=0.6.23
+reportlab>=4.2
+
+# LLM
+groq>=0.13.0
+
+# MCP
+mcp>=1.2.0,<2
+
+# Email
+email-validator>=2.2
+
+# Environment variables
+python-dotenv>=1.0
+
+# AI embeddings for Chat RAG
+scikit-learn>=1.5
+
+# Parsing / utilities
+python-dateutil>=2.9
+tqdm>=4.66
+
+fastapi>=0.112.0
+uvicorn[standard]>=0.30.0
+pydantic[email]>=2.8.0
+sqlalchemy>=2.0.30
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt==4.0.1
+python-multipart>=0.0.9
+email-validator>=2.1.0
